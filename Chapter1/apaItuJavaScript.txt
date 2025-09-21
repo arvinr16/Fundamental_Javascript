@@ -1,0 +1,4 @@
+<== Chapter 1 ==>
+>> Apa itu Javascript? <<
+
+=> Javascript berfungsi untuk menambah behavior website kita menjadi lebih responsive.
