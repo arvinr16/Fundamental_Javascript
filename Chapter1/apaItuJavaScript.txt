@@ -1,8 +1,18 @@
 <== Chapter 1 ==>
 >> Apa itu Javascript? <<
 
-=> Javascript itu apa? => Jadi Javascript itu adalah bahasa pemrograman yang digunakan oleh-
-   banyak browser saat ini, dengan tujuan untuk membuat website menjadi lebih responsive, dll.
+=> Javascript itu apa? -> Javascript adalah bahasa Pemrograman yang berjalan di browser bisa-
+                          juga berjalan di server. Digunakan untuk menambah interaktivitas,-
+                          dinamika, dan logika pada website.
+                          Interaktivias = Kemampuan website untuk merespon aksi pengguna,-
+                                          seperti klik tombol, mengetik, atau menggeser mouse.
+                          Dinamika      = Kemampuan website untuk memerbarui atau mengubah-
+                                          konten/tampilan secara real time tanpa harus memuat-
+                                          atau merefresh halaman website.
+                          Logika        = Aturan atau alur berpikir, pada konteks ini untuk-
+                                          mengatur logika program seperti perkondisian 'if'-
+                                          perulangan 'for', fungsi, perhitungan/aritmatika-
+                                          yang mengatur behavior/perilaku website.
 => Kegunaan Javascript:
    1. Mengubah HTML dan CSS. Kita bisa mengubah tampilan website HTML dan CSS dengan-
       menggunakan Javascript, seperti misal kita mengklik elemen HTML dan nantinya bisa merubah-
@@ -22,5 +32,3 @@
       browser/website kita.
    6. Dan lain-lain. Kita bisa menggunakan Javascript dengan berbagai tujuan seperti kita bisa-
       memproses video, memproses gambar, memproses audio, membuat aplikasi sendiri, dll.
-
-=> Javascript berfungsi untuk menambah behavior website kita menjadi lebih responsive.
