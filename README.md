@@ -8,9 +8,6 @@ Released under GNU GPL v3
 
 See the [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-       __                                 _       __ 
-      / /___ __   ______ ________________(_)___  / /_
- __  / / __ `/ | / / __ `/ ___/ ___/ ___/ / __ \/ __/
-/ /_/ / /_/ /| |/ / /_/ (__  ) /__/ /  / / /_/ / /_  
-\____/\__,_/ |___/\__,_/____/\___/_/  /_/ .___/\__/  
-                                       /_/           
+<p>
+    <img src="images/asciiArt.png" style="width: 250px;" />
+</p>         
