@@ -9,5 +9,5 @@ Released under GNU GPL v3
 See the [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 <p>
-    <img src="images/asciiArt.png" style="width: 250px;" />
+    <img align="center" src="images/asciiArt.png" style="width: 300px;" />
 </p>         
