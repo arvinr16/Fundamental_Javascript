@@ -1,0 +1,6 @@
+<== Chapter 2 ==>
+>> Tools yang dibutuhkan <<
+
+Berikut adalah beberapa tools yang bisa digunakan untuk pembelajaran Javascript:
+1. Browser App, bisa menggunakan 'Chrome', 'Edge', 'Firefox', dll.
+2. Text Editor, bisa menggunakan 'Visual Studio Code', 'Xcode', dll.
