@@ -4,3 +4,9 @@
 Berikut adalah beberapa tools yang bisa digunakan untuk pembelajaran Javascript:
 1. Browser App, bisa menggunakan 'Chrome', 'Edge', 'Firefox', dll.
 2. Text Editor, bisa menggunakan 'Visual Studio Code', 'Xcode', dll.
+
+Kita juga bisa menginstall beberapa Extension VS Code:
+1. Material Icon Theme (Philipp Kief)
+2. Javascript and Typescript (Microsoft)
+3. Javascript Debugger (Microsoft)
+4. Prettier - Code Formatter
