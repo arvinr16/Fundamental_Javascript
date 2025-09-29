@@ -9,4 +9,4 @@ Kita juga bisa menginstall beberapa Extension VS Code:
 1. Material Icon Theme (Philipp Kief)
 2. Javascript and Typescript (Microsoft)
 3. Javascript Debugger (Microsoft)
-4. Prettier - Code Formatter
+4. Prettier - Code Formatter (Kita harus setting dulu di dalam 'Open User Setting JSON')
