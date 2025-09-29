@@ -13,6 +13,9 @@
                                           mengatur logika program seperti perkondisian 'if'-
                                           perulangan 'for', fungsi, perhitungan/aritmatika-
                                           yang mengatur behavior/perilaku website.
+<======================================================================================================>
+
+
 
 => Kegunaan Javascript:
    1. Mengubah HTML dan CSS. Kita bisa mengubah tampilan website HTML dan CSS dengan-
@@ -33,6 +36,9 @@
       browser/website kita.
    6. Dan lain-lain. Kita bisa menggunakan Javascript dengan berbagai tujuan seperti kita bisa-
       memproses video, memproses gambar, memproses audio, membuat aplikasi sendiri, dll.
+<======================================================================================================>
+
+
 
 => Pembuat Javascript? -> Pembuat atau pencetus Javascript adalah Brendan Eich, beliau mulanya-
                           membuat teknologi Javascript ini karena ada tugas dari tempat dia-
