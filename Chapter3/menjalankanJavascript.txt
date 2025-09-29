@@ -1,0 +1,24 @@
+<== Chapter 3 ==>
+>> Cara menjalankan Javascript <<
+
+=> Introduce
+   Untuk kita bisa menjalankan Javascript, sebelumnya kita harus mempunyai aplikasi Browser dan Text-
+   Editor terlebih dahulu.
+   Sebenarnya pada aplikasi Browser kita itu sudah terpasang Javascript atau Engine Javascript untuk-
+   menjalankan kode Javascript yang ada di browser secara default.
+   Ada 4 kategori fitur Javascript yang kita bisa jalankan pada Browser kita:
+   1. 
+<======================================================================================================>
+
+
+=> Materials
+   Kita bisa menjalankan Javascript pada Browser kita dengan cara:
+   1. Masuk pada Browser kita
+   2. Setelah itu pada landing page kita bisa membuka menu 'Inspect' dengan cara klik kanan lalu pilih-
+      'Inspect'
+   3. Pada menu Inspect kita bisa mengklik menu 'Console'
+   4. Setelah pada menu Console tersebut kita bisa langsung membuat kode Javascript dan bisa langsung-
+      tereksekusi oleh Browser kita.
+   5. Tetapi pada saat kita merefresh Browser kita, kode yang kita buat tadi akan langsung ter reset,-
+      sehingga kita tidak bisa memanggil variable yang sudah kita buat tadi di awal atau kita harus-
+      membuat ulang variable tersebut.
