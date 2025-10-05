@@ -11,7 +11,7 @@
 <======================================================================================================>
 
 
-=> Materials
+=> Subject Matter
    Kita bisa menjalankan Javascript pada Browser kita dengan cara:
    1. Masuk pada Browser kita
    2. Setelah itu pada landing page kita bisa membuka menu 'Inspect' dengan cara klik kanan lalu pilih-
@@ -22,3 +22,5 @@
    5. Tetapi pada saat kita merefresh Browser kita, kode yang kita buat tadi akan langsung ter reset,-
       sehingga kita tidak bisa memanggil variable yang sudah kita buat tadi di awal atau kita harus-
       membuat ulang variable tersebut.
+   6. Kita juga bisa membuat sebuah fitur Javascript yang ada langsung menggunakan Console di browser-
+      dengan cara kita menuliskan kode syntax 'alert('value')' seperti itu.
