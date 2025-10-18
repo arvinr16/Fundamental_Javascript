@@ -7,7 +7,11 @@
    Sebenarnya pada aplikasi Browser kita itu sudah terpasang Javascript atau Engine Javascript untuk-
    menjalankan kode Javascript yang ada di browser secara default.
    Ada 4 kategori fitur Javascript yang kita bisa jalankan pada Browser kita:
-   1. 
+   1. Core (ECMAScript) = Fitur Javascript yang didefinisikan oleh standar ECMAScript.
+   2. DOM (Document Object Model) = Digunakan untuk memanipulasi elemen halaman Web.
+   3. BOM (Browser Object Moder)  = Digunakan untuk memberi Javascript akses ke fitur-fitur browser, 
+                                    bukan hanya halaman webnya.
+   4. Web API = Fitur-fitur tambahan browser agar Javascript bisa melakukan hal-hal canggih.
 <======================================================================================================>
 
 
