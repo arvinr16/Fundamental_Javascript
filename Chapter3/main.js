@@ -1,0 +1,1 @@
+console.log('Hello saya adalah kode Javascript bertipe External');
