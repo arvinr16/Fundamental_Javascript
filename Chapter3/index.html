@@ -4,9 +4,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fundamental Javascript Chapter 3</title>
+    <style>
+      a {
+        font-size: 24px;
+        font-family: "Nunito", sans-serif;
+        font-weight: 500;
+        color: rgb(73, 97, 235);
+        background: linear-gradient(45deg, #e6e31d, #e0bf2a);
+        padding: 12px 16px;
+        text-decoration: none;
+        border-radius: 15px;
+      }
+    </style>
   </head>
   <body>
     <h1>Hello Friend</h1>
+
+    <!-- Ini adalah kode Javascript dengan metode Inline = Kode berada di dalam attribut tag HTML -->
+    <a onclick="sapaNama()" href="">Klik Tombol Ini!</a>
+
+    <!-- Ini adalah kode Javascript dengan metode External = Kode berada diluar file HTML -->
+     <script src="main.js"></script>
 
     <!-- Ini adalah kode Javascript dengan metode Internal = Kode berada di dalam file HTML dengan tag <script> -->
     <script>
@@ -18,11 +36,8 @@
       );
 
       function sapaNama() {
-        alert("Paijo");
+        alert("Hello Jo Paijooo");
       }
     </script>
-
-    <!-- Ini adalah kode Javascript dengan metode Inline = Kode berada di dalam attribut tag HTML -->
-    <button onclick="sapaNama()">Hello Klik Tombol ini</button>
   </body>
 </html>
