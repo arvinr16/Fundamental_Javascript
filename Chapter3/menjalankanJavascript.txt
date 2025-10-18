@@ -28,3 +28,9 @@
       membuat ulang variable tersebut.
    6. Kita juga bisa membuat sebuah fitur Javascript yang ada langsung menggunakan Console di browser-
       dengan cara kita menuliskan kode syntax 'alert('value')' seperti itu.
+   7. Ketika kita ingin menggunakan Inline Javascript style code, misal kita ingin menggunakan 'console-
+      .log('Hello'), kita jangan lupa bahwasanya kalau untuk attribut tag Html seperti onclick="" dia me-
+      merlukan tanda kutip (""). Maka dari itu kita harus menulis dengan kebalikan tanda kutip ter-
+      sebut dengan kode Javascript Inline kita, kalau tidak begitu kodenya akan error.
+      Contoh yang benar: <a href="" onclick="console.log('Hello')"><a/>
+      Contoh yang salah: <a href="" onclick="console.log("Hello")"><a/>
