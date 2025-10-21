@@ -1,7 +1,8 @@
 <== Chapter 1 ==>
 >> Apa itu Javascript? <<
 
-=> Javascript itu apa? -> Javascript adalah bahasa Pemrograman yang berjalan di browser bisa-
+=> Introduce
+   Javascript itu apa? -> Javascript adalah bahasa Pemrograman yang berjalan di browser bisa-
                           juga berjalan di server. Digunakan untuk menambah interaktivitas,-
                           dinamika, dan logika pada website.
                           Interaktivias = Kemampuan website untuk merespon aksi pengguna,-
