@@ -72,11 +72,13 @@ var makananInternasional = "Burger";
 }
 console.log(makananInternasional);
 /* Perbedaan penggunaan Scoping pada variabel 'let' dan 'var':
-   > Jika kita menggunakan variabel let, variabel yang sudah dideklarasikan didalam dan diluar kurung kurawal akan mempunyai-
-     nilai dari variabelnya sendiri2, jadi print/ console.log yang berada diluar scope tidak akan mengambil data terbaru dari-
-     deklarasi variabel yang baru dilakukan. Singkatnya scope dari variabel let akan tergantung dimana scope itu berada.
+   > Jika kita menggunakan variabel let, variabel yang sudah dideklarasikan didalam dan diluar kurung kurawal akan-
+     mempunyai nilai dari variabelnya sendiri2, jadi print/ console.log yang berada diluar scope tidak akan mengambil- 
+     data terbaru dari deklarasi variabel yang baru dilakukan. Singkatnya scope dari variabel let akan tergantung dimana-
+     scope itu berada. Block-Scope
    > Sedangkan pada variabel var, dia akan mengambil data terbaru yang dideklarasikan didalam Scope walaupun kita print-
-     variabel tersebut diluar Scope. Singkatnya scope dari variabel var akan selalu tersedia atau selalu Global.
+     variabel tersebut diluar Scope. Jika scope dengan variabel var ada di dalam sebuah fungsi, maka variabel tersebut hanya-
+     berlaku di dalam fungsi tersebut. Function-Scope
      */
 //============================================================================================================================
 
