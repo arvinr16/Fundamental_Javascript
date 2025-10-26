@@ -1,2 +1,4 @@
 <== Chapter 5 ==>
 >> Tipe Data dalam Javascript <<
+
+=> Introduce
