@@ -13,7 +13,7 @@
 => Subject Matter
    1. Kita bisa membuat file 'index.html', lalu kita bisa langsung menambahkan tag <script> pada file-
       tersebut.
-   2. Materi lanjut ke file 'main.js'
+   2. Materi lanjut ke file 'main.js' Chapter 4
    3. Didalam Javascript ada yang namanya 'Scoping', Scoping adalah aturan yang menentukan di mana-
       suatu variabel bisa diakses dalam suatu kode program. Biasanya Scoping dimulai dan diakhiri-
       dengan tanda kurung kurawal ({}).
