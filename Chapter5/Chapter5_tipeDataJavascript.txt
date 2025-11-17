@@ -25,7 +25,7 @@
 => Subject Matter
 1. Kita bisa buat file dengan nama 'index.html' untuk memulai pelajaran Tipe Data pada Chapter 5 kali-
    ini.
-2. Materi lanjut pada 'main.js' Chapter 5
+2. Materi lanjut pada 'main.js' Chapter 5.
 3. Dalam bahasa pemrograman Javascript, kita bisa mengganti tipe data pada suatu variable seperti-
    contoh ini: 
    Kita bisa melakukan perubahan suatu tipe data 'String' ke tipe data 'Number' dalam Javascript 
