@@ -1,0 +1,49 @@
+<== Chapter 1 ==>
+>> Apa itu Javascript? <<
+
+=> Introduce
+   Javascript itu apa? -> Javascript adalah bahasa Pemrograman yang berjalan di browser bisa-
+                          juga berjalan di server. Digunakan untuk menambah interaktivitas,-
+                          dinamika, dan logika pada website.
+                          Interaktivias = Kemampuan website untuk merespon aksi pengguna,-
+                                          seperti klik tombol, mengetik, atau menggeser mouse.
+                          Dinamika      = Kemampuan website untuk memerbarui atau mengubah-
+                                          konten/tampilan secara real time tanpa harus memuat-
+                                          atau merefresh halaman website.
+                          Logika        = Aturan atau alur berpikir, pada konteks ini untuk-
+                                          mengatur logika program seperti perkondisian 'if'-
+                                          perulangan 'for', fungsi, perhitungan/aritmatika-
+                                          yang mengatur behavior/perilaku website.
+<======================================================================================================>
+
+
+
+=> Kegunaan Javascript:
+   1. Mengubah HTML dan CSS. Kita bisa mengubah tampilan website HTML dan CSS dengan-
+      menggunakan Javascript, seperti misal kita mengklik elemen HTML dan nantinya bisa merubah-
+      elemen HTML tersebut. Maupun ketika kita mengklik properti CSS, yang nantinya juga bisa-
+      merubah properti CSS tersebut, seperti merubah warnanya, designnya, dll.
+   2. Manipulasi Data. Kita bisa melakukan manipulasi data dengan menggunakan Javascript,-
+      karena Javascript adalah bahasa pemrograman. Berbeda dengan HTML dan CSS yang merupakan-
+      MarkUp Language atau kerangka pada website yang tidak menggunakan logika pemrograman.
+   3. Respon ke Event. Event adalah suatu kejadian di browser akibat aksi dari User atau Sistem,-
+      misalnya klik tombol, menekan keyboard, menggeser mouse, memuat halaman, atau error.
+      Event ini bisa kita tangkap dan bisa kita beri respon dengan menggunakan Javascript-
+      melalui 'Event Handler' atau 'Event Listener'.
+      Event = Kejadian -> Javascript merespon kejadian tersebut.
+   4. Animasi. Kita juga bisa membuat animasi pada website kita dengan menggunakan bahasa-
+      pemrograman Javascript.
+   5. Audio dan Video. Javascript juga bisa digunakan untuk menjalankan audio dan video pada-
+      browser/website kita.
+   6. Dan lain-lain. Kita bisa menggunakan Javascript dengan berbagai tujuan seperti kita bisa-
+      memproses video, memproses gambar, memproses audio, membuat aplikasi sendiri, dll.
+<======================================================================================================>
+
+
+
+=> Pembuat Javascript? -> Pembuat atau pencetus Javascript adalah Brendan Eich, beliau mulanya-
+                          membuat teknologi Javascript ini karena ada tugas dari tempat dia-
+                          bekerja yaitu di Netscape. Tugas tersebut adalah membuat 'Engine Web-
+                          Dynamic' dengan durasi pembuatan hanya selama 10 hari saja! Awal mula-
+                          nya teknologi tersebut bernama 'Mocha' lalu 'LiveScript' baru setelah-
+                          itu bernama 'JavaScript'.
