@@ -1,0 +1,12 @@
+<== Chapter 6 ==>
+>> String (Escaping & Literal) <<
+
+=> Introduce
+   Pada Chapter 6 kali ini, kita akan membahas tipe data String lebih mendalam.
+<======================================================================================================>
+
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
+   pembelajaran kita kali ini.
+2. Materi lanjut pada 'main.js' Chapter 6.
