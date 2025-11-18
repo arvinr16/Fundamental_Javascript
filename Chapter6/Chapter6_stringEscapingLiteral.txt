@@ -1,5 +1,0 @@
-<== Chapter 6 ==>
->> String (Escaping & Literal) <<
-
-=> Introduce
-   
