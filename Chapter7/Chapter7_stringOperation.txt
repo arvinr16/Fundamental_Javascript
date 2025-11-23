@@ -4,7 +4,6 @@
 => Introduce
    String Operation adalah segala bentuk proses, manipulasi, atau aksi yang dilakukan terhadap tipe-
    data String di Javascript.
-   
 <======================================================================================================>
 
 => Subject Matter
