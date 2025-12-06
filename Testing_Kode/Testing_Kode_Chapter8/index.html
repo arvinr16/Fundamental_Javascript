@@ -13,32 +13,34 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>Testing</h1>
-      <div class="input-div">
-        <div class="input-group">
-          <input type="text" id="input1" placeholder="Masukan angka!" />
-        </div>
+    <section id="main">
+      <div class="container">
+        <h1>Testing Kakulator Sederhana</h1>
+        <div class="input-div">
+          <div class="input-group">
+            <input type="text" id="input1" placeholder="Masukan angka!" />
+          </div>
 
-        <div class="input-group">
-          <input type="text" id="input2" placeholder="Masukan angka!" />
+          <div class="input-group">
+            <input type="text" id="input2" placeholder="Masukan angka!" />
+          </div>
+          <div class="operator-div">
+            <select name="" id="operator">
+              <option value="+">+</option>
+              <option value="-">-</option>
+              <option value="*">*</option>
+              <option value="/">/</option>
+            </select>
+          </div>
         </div>
-        <div class="operator-div">
-          <select name="" id="operator">
-            <option value="+">+</option>
-            <option value="-">-</option>
-            <option value="*">*</option>
-            <option value="/">/</option>
-          </select>
+        <div class="button">
+          <button id="button">Klik</button>
+        </div>
+        <div id="hasil-div">
+          <span id="hasil"></span>
         </div>
       </div>
-      <div class="button">
-        <button id="button">Klik</button>
-      </div>
-      <div id="hasil-div">
-        <span id="hasil"></span>
-      </div>
-    </div>
+    </section>
     <script src="main.js"></script>
   </body>
 </html>
