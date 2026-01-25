@@ -8,7 +8,7 @@ console.log(dataString);
 /* Pada kasus kita kali ini kita bisa menggunakan salah satu dari dua kutip-
    yaitu kutip satu ('') atau kutip dua ("") sebagai value dari variable tipe-
    data String yang kita punya.
-   Kita juga bisa menggunakan backslash (\) seperti ini dibelakan kutip yang kita-
+   Kita juga bisa menggunakan backslash (\) seperti ini dibelakang kutip yang kita-
    pakai ketika kita ingin menggunakan kutip yang sama antara value dan penulisan-
    variabel tipe data String kita.
    Contoh benar ada dua yaitu: */
