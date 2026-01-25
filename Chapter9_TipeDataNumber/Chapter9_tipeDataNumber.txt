@@ -2,4 +2,12 @@
 >> Tipe Data Number <<
 
 => Introduce
-   
+   Pada chapter kali ini, kita akan mempelajari Tipe Data Number, kita juga akan mempelajari bagaimana-
+   kita input data menggunakan Number.
+<======================================================================================================>
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
+   latihan kita kali ini.
+2. Pada element HTML, kita akan membuat struktur untuk kebutuhan latihan pertama kita
+3. Latihan lanjut pada 'main.js' di Chapter 9.
