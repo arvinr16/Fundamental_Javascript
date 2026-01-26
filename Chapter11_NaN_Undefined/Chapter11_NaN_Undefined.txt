@@ -1,0 +1,13 @@
+<== Chapter 11 ==>
+>> NaN(Not a Number) dan Undefined <<
+
+=> Introduce
+   Pada Chapter 11 kali ini, kita akan mempelajari dua tipe data spesial yaitu-
+   1. NaN(Not a Number) dan 2. Undefined.
+<======================================================================================================>
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
+   latihan kita kali ini.
+2. Pada element HTML, kita akan membuat struktur untuk kebutuhan latihan pertama kita
+3. Materi lanjut pada 'main.js' di Chapter 11.
