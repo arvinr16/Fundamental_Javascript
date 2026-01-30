@@ -2,3 +2,12 @@
 >> Latihan 2 - Tipe Data <<
 
 => Introduce
+   Pada Chapter 12 kali ini, kita akan melakukan Latihan 2 dengan fokus pada latihan-
+   Tipe Data. Kita akan membuat aplikasi sederhana untuk menghitung kedua buah angka-
+   menggunakan HTML dan script JS.
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
+   latihan kita kali ini.
+2. Pada element HTML, kita akan membuat struktur untuk kebutuhan latihan pertama kita
+3. Latihan lanjut pada 'main.js' Chapter 12.
