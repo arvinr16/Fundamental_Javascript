@@ -8,6 +8,5 @@
 
 => Subject Matter
 1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
-   latihan kita kali ini.
-2. Pada element HTML, kita akan membuat struktur untuk kebutuhan latihan pertama kita
-3. Latihan lanjut pada 'main.js' Chapter 12.
+   pembelajaran kita kali ini.
+2. Materi pembelajaran lanjut pada file 'main.js' Chapter 12.
