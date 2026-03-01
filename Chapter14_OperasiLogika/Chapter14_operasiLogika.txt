@@ -2,3 +2,9 @@
 >> Operasi Logika <<
 
 => Introduction
+   Pada chapter kali ini, kita akan belajar Operasi Logika.
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu baru setelah itu kita buat file 'main.js' untuk-
+   latihan kita kali ini.
+2. Latihan lanjut pada 'main.js' Chapter 14.
