@@ -64,7 +64,7 @@ let makananLokal = "Gudeg";
     console.log(makananLokal);
 }
 console.log(makananLokal);
-// Behavior/ kelakuan dari variabel 'var; dalam Scoping
+// Behavior/ kelakuan dari variabel 'var' dalam Scoping
 var makananInternasional = "Burger";
 {
     var makananInternasional = "Sushi";
