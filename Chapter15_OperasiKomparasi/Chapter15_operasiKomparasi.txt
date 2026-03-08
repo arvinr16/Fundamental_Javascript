@@ -1,0 +1,10 @@
+==> Chapter 15 <==
+>> Operasi Komparasi <<
+
+=> Introduction
+   Pada chapter kali ini, kita akan belajar mengenai Operasi Komparasi.
+
+=> Subject Matters
+1. Kita bisa membuat file 'index.html' dahulu, setelah itu kita bisa membuat-
+   file 'main.js' untuk pokok bahasan materi pelajaran pada chapter kali ini.
+2. Materi pelajaran atau latihan lanjut pada file 'main.js' Chapter 15.
