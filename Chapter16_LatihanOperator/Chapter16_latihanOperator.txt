@@ -1,0 +1,6 @@
+==> Chapter 16 <==
+>> Latihan 3 - Operator <<
+
+=> Introduce
+   Pada Chapter 16 kali ini, kita akan melakukan Latihan 3 dengan fokus pada latihan-
+   Operator.
