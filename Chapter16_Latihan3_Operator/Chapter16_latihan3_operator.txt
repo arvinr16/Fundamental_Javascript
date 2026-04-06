@@ -4,3 +4,8 @@
 => Introduce
    Pada Chapter 16 kali ini, kita akan melakukan Latihan 3 dengan fokus pada latihan-
    Operator.
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dulu, baru setelah itu kita bisa membuat file-
+   'main.js' untuk menyimpan materi latihan/pembelajaran kali ini.
+2. Materi latihan lanjut pada file 'main.js'.
