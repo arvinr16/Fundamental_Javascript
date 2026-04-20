@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="container">
-      <div class="d-flex justify-content-center mt-4 gap-2">
+      <div class="row justify-content-center align-items-center mt-4 gap-1">
         <div class="col-2">
           <div class="input-group">
             <input
@@ -30,10 +30,38 @@
             />
           </div>
         </div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
+        <div class="col-2">
+          <div class="input-group">
+            <select id="operatorAritmatika" class="form-select">
+              <option selected hidden>Pilih Operator</option>
+              <option value="+">+</option>
+              <option value="-">-</option>
+              <option value="*">*</option>
+              <option value="/">/</option>
+              <option value="%">%</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-2">
+          <input
+            id="aritmatikaAngka2"
+            type="number"
+            class="form-control input"
+            placeholder="Angka-kedua"
+          />
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <button
+            type="button"
+            class="btn btn-outline-primary"
+            id="buttonAritmatika"
+          >
+            Hasil Hitung
+          </button>
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <span id="hasilAritmatika">Hasil</span>
+        </div>
       </div>
     </div>
     <script
