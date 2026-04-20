@@ -1,5 +1,5 @@
 # Fundamental_Javascript
-### Ini adalah repository saya terkait dokumentasi pembelajaran saya mengenai bahasa pemrograman Javascript
+### Ini adalah repository terkait dokumentasi pembelajaran saya mengenai bahasa pemrograman Javascript
 
 # License
 Released under GNU GPL v3
