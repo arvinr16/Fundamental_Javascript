@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <!-- Calculator Aritmatika -->
+    <!-- Kalkulator Aritmatika -->
     <div class="container">
       <div class="d-flex justify-content-center mt-5">
         <h1 class="text-center">Chapter 16 - Latihan 3 Operator</h1>
@@ -21,6 +21,7 @@
     </div>
     <div class="container">
       <div class="row justify-content-center align-items-center mt-4 gap-1">
+        <h2 class="text-center fs-4">Kalkulator Aritmatika</h2>
         <div class="col-2">
           <div class="input-group">
             <input
@@ -66,9 +67,10 @@
       </div>
     </div>
 
-    <!-- Calculator Logika -->
+    <!-- Kalkulator Logika -->
     <div class="container">
       <div class="row justify-content-center align-items-center mt-4 gap-1">
+        <h2 class="text-center fs-4">Kalkulator Logika</h2>
         <div class="col-2">
           <div class="input-group">
             <input
@@ -111,11 +113,62 @@
       </div>
     </div>
 
+    <!-- Kalkulator Komparasi -->
+    <div class="container">
+      <div class="row justify-content-center align-items-center mt-4 gap-1">
+        <h2 class="text-center fs-4">Kalkulator Komparasi</h2>
+        <div class="col-2">
+          <div class="input-group">
+            <input
+              id="komparasi1"
+              type="text"
+              class="form-control input"
+              placeholder="Komparasi-1"
+            />
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="input-group">
+            <select id="operatorKomparasi" class="form-select">
+              <option selected hidden>Pilih Operator</option>
+              <option value=">">Lebih besar dari</option>
+              <option value="<">Lebih kecil dari</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-2">
+          <input
+            id="komparasi2"
+            type="number"
+            class="form-control input"
+            placeholder="Komparasi-2"
+          />
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <button
+            type="button"
+            class="btn btn-outline-primary"
+            id="buttonKomparasi"
+          >
+            Hitung
+          </button>
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <span id="hasilKomparasi">Hasil Komparasi</span>
+        </div>
+      </div>
+    </div>
+
     <!-- Contoh Kode Ternary Operation (recomended) -->
     <div class="container">
       <div class="row justify-content-center align-items-center mt-4 gap-1">
-        <div class="col-2 d-flex justify-content-center">
-          <button type="button" class="btn btn-outline-primary" id="buttonTernary1">
+        <h2 class="text-center fs-4">Contoh Ternary Operation</h2>
+        <div class="col-3 d-flex justify-content-center">
+          <button
+            type="button"
+            class="btn btn-outline-primary"
+            id="buttonTernary1"
+          >
             Testing Ternary Operation
           </button>
         </div>
