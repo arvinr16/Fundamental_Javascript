@@ -77,3 +77,15 @@ document.getElementById("buttonTernary1").onclick = function () {
   textContent = statusTernary1[hasilTernary1];
   document.getElementById("hasilTernary1").textContent = statusTernary1[hasilTernary1];
 };
+
+// Calculator Komparasi
+let komparasi1, operatorKomparasi, komparasi2, hasilKomparasi;
+document.getElementById("buttonKomparasi").onclick = function() {
+  komparasi1 = document.getElementById("komparasi1").value;
+  komparasi2 = document.getElementById("komparasi2").valueAsNumber;
+  operatorKomparasi = document.getElementById("operatorKomparasi").value;
+
+  hasilKomparasi = eval(komparasi1 + operatorKomparasi + komparasi2);
+
+  document.getElementById("hasilKomparasi").textContent = hasilKomparasi ? "Benar Coyyy" : "Salah Coyyy";
+};
