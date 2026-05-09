@@ -64,6 +64,49 @@
         </div>
       </div>
     </div>
+    <div class="container">
+      <div class="row justify-content-center align-items-center mt-4 gap-1">
+        <div class="col-2">
+          <div class="input-group">
+            <input
+              id="boolean1"
+              type="text"
+              class="form-control input"
+              placeholder="Boolean-1"
+            />
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="input-group">
+            <select id="operatorLogika" class="form-select">
+              <option selected hidden>Pilih Operator</option>
+              <option value="&&">AND</option>
+              <option value="||">OR</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-2">
+          <input
+            id="boolean2"
+            type="number"
+            class="form-control input"
+            placeholder="Boolean-2"
+          />
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <button
+            type="button"
+            class="btn btn-outline-primary"
+            id="buttonLogika"
+          >
+            Hasil Hitung
+          </button>
+        </div>
+        <div class="col-2 d-flex justify-content-center">
+          <span id="hasilLogika">Hasil</span>
+        </div>
+      </div>
+    </div>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
