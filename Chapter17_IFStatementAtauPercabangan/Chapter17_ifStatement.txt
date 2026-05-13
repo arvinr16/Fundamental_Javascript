@@ -5,8 +5,8 @@
    Pada chapter kali ini, kita akan belajar IF Statement atau Percabangan.
 
 => Subject Matter
-   1. Kita bisa buat file 'index.html' untuk menjalankan program file 'main.js' kita.
-   2. Lalu kita buat file 'main.js'.
-   3. Pada Chapter 17 kali ini akan ada folder untuk 'Materi_Foto' yaitu screeshoot-
-      materi penjelasan dari Youtube Kelas Terbuka.
-   4. Selanjutnya materi pelajaran akan dilanjutkan di file 'main.js'
+1. Kita bisa buat file 'index.html' untuk menjalankan program file 'main.js' kita.
+2. Lalu kita buat file 'main.js'.
+3. Pada Chapter 17 kali ini akan ada folder untuk 'Materi_Foto' yaitu screeshoot-
+   materi penjelasan dari Youtube Kelas Terbuka.
+4. Selanjutnya materi pelajaran akan dilanjutkan di file 'main.js'
