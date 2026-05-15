@@ -1,0 +1,11 @@
+==> Chapter 18 <==
+>> Else IF dan Switch Case <<
+
+=> Introduce
+   Pada chapter kali ini kita kan melanjutkan pembelajaran kita tentang Els IF,-
+   yang sebenarnya ada kaitannya dari Chapter sebelumnya yaitu tentang IF Statement.
+
+=> Subject Matter
+1. Kita bisa membuat file 'index.html' dan setelah itu kita bisa membuat file 'main.js'-
+   untuk pembelajaran pada Chapter 18 kali ini.
+2. Selanjutnya materi pembelajaran akan dilanjutkan di file 'main.js'.
