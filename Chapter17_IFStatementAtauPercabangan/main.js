@@ -21,7 +21,7 @@ if(makanan === "Ayam Goreng") {
 
 console.log("");
 
-console.log("No. 2:")
+console.log("No. 2: (ini sudah masuk ranah materi Else IF)")
 let umur = 18;
 console.log("Berapa umurmu broow?" + " = " + umur);
 if (umur >= 18) {
