@@ -9,7 +9,7 @@
 */
 
 console.log("Contoh studi kasus Percabangan");
-console.log("No. 1:");
+console.log("No 1. Contoh IF Statement:");
 let makanan = "Tempe Goreng";
 console.log("Makan Apa?" + " = " + makanan);
 
@@ -21,7 +21,7 @@ if(makanan === "Ayam Goreng") {
 
 console.log("");
 
-console.log("No. 2: (ini sudah masuk ranah materi Else IF)")
+console.log("No 2. (ini sudah masuk ranah materi Else IF):")
 let umur = 18;
 console.log("Berapa umurmu broow?" + " = " + umur);
 if (umur >= 18) {
