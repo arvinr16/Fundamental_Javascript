@@ -1,0 +1,17 @@
+==> Chapter 19 <==
+>> Latihan 4 - IF Statement Kalkulator <<
+
+=> Introduce
+   Pada chapter kali ini, kita akan melakukan Latihan IF Statement-
+   dengan membuat kalkulatornya.
+
+=> Subject Matter
+1. Kita melakukan latihan ini dengan tiga file utama yaitu 'html', 'css', dan 'js'.
+2. Pada latihan kali ini kita juga akan menggunakan framework css Bootstrap untuk-
+   memudahkan kita dalam menyusun struktur kalkulatornya.
+3. Materi lanjut pada file 'main.js'.
+
+=> Notes
+1. Jangan lupa untuk parsing setiap variabel input yang kita punya menjadi 'Number'-
+   karena setiap input yang kita punya di file 'HTML' itu nanti diubah menjadi tipe-
+   data 'String', walaupun kita sudah membuat attribut type 'number' di tag 'input'.
