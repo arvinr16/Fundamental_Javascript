@@ -1,0 +1,4 @@
+:root[data-bs-theme="dark"] {
+  --bs-body-bg: #111111;
+  --bs-body-color: #f1f1f1;
+}
