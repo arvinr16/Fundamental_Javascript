@@ -2,3 +2,11 @@
   --bs-body-bg: #111111;
   --bs-body-color: #f1f1f1;
 }
+
+#hasil {
+  font-size: 32px;
+  width: 400px;
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+}
