@@ -4,10 +4,11 @@ function calculate() {
   const operator = document.getElementById("operator").value.trim();
   let hasil;
 
-  if(Number.isNaN(number1) || Number.isNaN(number2)) {
-    document.getElementById("hasil").textContent = "Tolong masukkan angka yang valid!";
+  if (Number.isNaN(number1) || Number.isNaN(number2)) {
+    document.getElementById("hasil").textContent =
+      "Tolong masukkan dua angka yang valid!";
     return;
-  };
+  }
   /**
    * Penjelasan:
    * 1. trim() = Digunakan untuk menghapus spasi kosong (whitespace) di awal-
@@ -15,7 +16,7 @@ function calculate() {
    *             Method ini sering digunakan untuk membersihkan input user,-
    *             validasi form, dan menghindari error karena spasi yg tidak-
    *             sengaja.
-   *             CONTOH:  
+   *             CONTOH:
    *             'let nama = " Paijo ";'
    *             'console.log(nama.trim());'
    *             nanti outputnya tetap 'Paijo'.
@@ -42,4 +43,22 @@ function calculate() {
    *                                              nilainya NaN asli atau tidak.
    * 5. return = Digunakan untuk menghentikan kode di Function.
    */
+
+  if (operator === "+") {
+    hasil = number1 + number2;
+  } else if (operator === "-") {
+    hasil = number1 - number2;
+  } else if (operator === "*") {
+    hasil = number1 * number2;
+  } else if (operator === "/") {
+    if (number2 === 0) {
+      hasil = "Hasil tak hingga";
+    } else {
+      hasil = number1 / number2;
+    } // Logika ini digunakan khusus pada operator pembagian untuk memberi validasi ketika dibagi 0.
+  } else {
+    hasil = "Operator tidak dikenali";
+  }
+
+  document.getElementById("hasil").textContent = `Hasil: ${hasil}`;
 }
